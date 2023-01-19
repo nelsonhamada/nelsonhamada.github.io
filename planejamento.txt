@@ -1,0 +1,2 @@
+Dividir a tela em dois blocos horizontais: Foto e contato / sobre Mim;
+Dividir a tela em dois blocos verticais Foto contato sobre mim /  Habilidades específicas e Portifólio.
