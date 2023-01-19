@@ -3,18 +3,38 @@
  }
 
 
+
 header, .name  {
+    
     margin: 0 auto;
     width: fit-content;
     color: rgb(71, 70, 70);
     padding: 2px;
-    font-family: ;
-    
+       
 }
 
-.photo {
-    border: 5px solid whitesmoke
-    
-    
-   
+#myphoto {
+   float: left;
+   padding: 15px 10px 200px;
+   background-color: rgb(214, 225, 235);
+   border-radius: 10px ;
+   margin: 10px 10px 0px 0px;
+   z-index: 2;
 }
+
+.description-photo {
+    height: 330px;
+    /* border: 2px solid green */
+}
+
+.description {
+    padding: 5px 0px 0px 110px;
+    /* border: 2px solid green; */
+}
+
+.contat {
+    /* border: 2px solid black; */
+    z-index: 1;
+  
+}
+
