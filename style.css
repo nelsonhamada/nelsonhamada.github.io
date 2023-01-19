@@ -14,27 +14,27 @@ header, .name  {
 }
 
 #myphoto {
+   /* height:200px; */
    float: left;
-   padding: 15px 10px 200px;
-   background-color: rgb(214, 225, 235);
-   border-radius: 10px ;
-   margin: 10px 10px 0px 0px;
-   z-index: 2;
+   /* padding: 15px 10px 200px; */
+   /* background-color: rgb(214, 225, 235); */
+   /* border-radius: 10px ; */
+   /* margin: 10px 10px 0px 0px; */
+  
 }
 
 .description-photo {
-    height: 330px;
-    /* border: 2px solid green */
+  
 }
 
 .description {
-    padding: 5px 0px 0px 110px;
+    padding: 5px 10px 120px 260px;
     /* border: 2px solid green; */
 }
 
 .contat {
     /* border: 2px solid black; */
-    z-index: 1;
+
   
 }
 
